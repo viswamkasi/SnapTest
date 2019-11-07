@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SnapEngage Test Suite">
+
+	<test name="LoginPage Test case">
+		<classes>
+			<class name="testCases.Test_Login_Page"></class>
+		</classes>
+	</test>
+
+</suite>
